@@ -26,9 +26,7 @@ Here are some ideas to get you started:
 
 #### About
 ```yaml
-Currenty I’m a student of Software Engineering department. Also I’m passionate about learning cyber security. 
-I also have skills and experience in Open-source intelligence (OSINT), web penetration testing, social engineering etc.
-If you think you need my help with something or just fancy saying hey, then get in touch.
+Cybersecurity Specialist with over 2 years of paid experience and hands-on expertise in Vulnerability Assessments, Penetration Testing, and Security Operations. I hold certifications including OSCP, OSCP+, C|EH, CC, CNSS, and C)VA, which have built a strong foundation across multiple cybersecurity domains. Additionally, I’m also experienced in conducting SWIFT CSP assessments, PCI-DSS compliance, and implementing a wide range of security solutions. Passionate about continuous learning, I actively pursue certifications and engage in security research during my spare time to stay informed and up-to-date.
 ```
 ![](https://komarev.com/ghpvc/?username=sazzad1337&color=green)
 #### Profiles
@@ -98,7 +96,7 @@ If you think you need my help with something or just fancy saying hey, then get 
 
 
 
-[![Sazzad's GitHub stats](https://github-readme-stats.vercel.app/api?username=sazzad1337)](https://github.com/anuraghazra/github-readme-stats)
+[![Sazzad's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xSAZZAD)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
