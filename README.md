@@ -26,7 +26,10 @@ Here are some ideas to get you started:
 
 #### About
 ```yaml
-Cybersecurity Specialist with over 2 years of paid experience and hands-on expertise in Vulnerability Assessments, Penetration Testing, and Security Operations. I hold certifications including OSCP, OSCP+, C|EH, CC, CNSS, and C)VA, which have built a strong foundation across multiple cybersecurity domains. Additionally, I’m also experienced in conducting SWIFT CSP assessments, PCI-DSS compliance, and implementing a wide range of security solutions. Passionate about continuous learning, I actively pursue certifications and engage in security research during my spare time to stay informed and up-to-date.
+Cybersecurity Specialist with over 2 years of paid experience and hands-on expertise in Vulnerability Assessments, Penetration Testing, and Security Operations.
+I hold certifications including OSCP, OSCP+, C|EH, CC, CNSS, and C)VA, which have built a strong foundation across multiple cybersecurity domains.
+Additionally, I’m also experienced in conducting SWIFT CSP assessments, PCI-DSS compliance, and implementing a wide range of security solutions.
+Passionate about continuous learning, I actively pursue certifications and engage in security research during my spare time to stay informed and up-to-date.
 ```
 ![](https://komarev.com/ghpvc/?username=sazzad1337&color=green)
 #### Profiles
