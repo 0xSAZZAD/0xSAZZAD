@@ -77,11 +77,11 @@ Here are some ideas to get you started:
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=flate&logo=mysql&logoColor=white)
 
 
-<h4 align="left">Devops</h4>
+<h4 align="left">DevSecOps</h4>
 
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
 
-<h4 align="left">Software</h4>
+<h4 align="left">Miscellaneous</h4>
 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
