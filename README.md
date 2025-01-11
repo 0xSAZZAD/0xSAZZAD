@@ -158,7 +158,9 @@ H3EB+YI6CsBdLeBIlhyYkb2X0y2yLkYjnl5M5LEt05SkJZEgefPgKbE0XpvLqoHy
 
 ```
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=0xSAZZAD&theme=catppuccin-mocha)](https://git.io/streak-stats) ![Sazzad's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xSAZZAD&rank_icon=github)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=0xSAZZAD&theme=catppuccin-mocha)](https://git.io/streak-stats) -->
+
+![Sazzad's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xSAZZAD&rank_icon=github)
 
 
 
