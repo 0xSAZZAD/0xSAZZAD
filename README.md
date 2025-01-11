@@ -17,20 +17,18 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="/0xSAZZAD.gif?raw=true" width="150" height="150" />
 
 #### Hi, I'm [SAZZAD](http://sazzad.info/) 👋
-
--  🌱 Learning: Cyber Security | Software Engineering
+<!-- 🎮 Hobby: Video Games
+-   -->
 -  💻 Security Researcher
--  🎮 Hobby: Video Games
+-  🌱 Learning Cyber Security | Software Engineering
 
+<br>
 
+<h5 align="center">About Me</h5>
+<h6 align="center">Cybersecurity Specialist with over 2 years of paid experience and hands-on expertise in Vulnerability Assessments, Penetration Testing, and Security Operations. I hold certifications including OSCP, OSCP+, C|EH, CC, CNSS, and C)VA, which have built a strong foundation across multiple cybersecurity domains. Additionally, I’m also experienced in conducting SWIFT CSP assessments, PCI-DSS compliance, and implementing a wide range of security solutions. Passionate about continuous learning, I actively pursue certifications and engage in security research during my spare time to stay informed and up-to-date.</h6>
 
-#### About
-```yaml
-Cybersecurity Specialist with over 2 years of paid experience and hands-on expertise in Vulnerability Assessments, Penetration Testing, and Security Operations.
-I hold certifications including OSCP, OSCP+, C|EH, CC, CNSS, and C)VA, which have built a strong foundation across multiple cybersecurity domains.
-Additionally, I’m also experienced in conducting SWIFT CSP assessments, PCI-DSS compliance, and implementing a wide range of security solutions.
-Passionate about continuous learning, I actively pursue certifications and engage in security research during my spare time to stay informed and up-to-date.
-```
+<br>
+
 ![](https://komarev.com/ghpvc/?username=sazzad1337&color=green)
 #### Profiles
 [<img align="left" alt="hacker1" src="https://img.shields.io/badge/Hack%20The%20Box-000000?style=flat-square&logo=hackthebox&logoColor=#9FEF00" />][htb]
@@ -103,7 +101,7 @@ Passionate about continuous learning, I actively pursue certifications and engag
 
 
 
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/0xSAZZAD.png" alt="TryHackMe"> <img src="http://www.hackthebox.eu/badge/image/312195" alt="Hack The Box">
 
 
 #### PGP
@@ -188,5 +186,3 @@ H3EB+YI6CsBdLeBIlhyYkb2X0y2yLkYjnl5M5LEt05SkJZEgefPgKbE0XpvLqoHy
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="premierepro" width="40" height="40"/> </a>
 -->
 
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/0xSAZZAD.png" alt="TryHackMe"> <img src="http://www.hackthebox.eu/badge/image/312195" alt="Hack The Box">
