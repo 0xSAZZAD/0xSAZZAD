@@ -96,12 +96,10 @@ Here are some ideas to get you started:
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
 
+#### Ranks
+<img src="http://www.hackthebox.eu/badge/image/312195" alt="Hack The Box">
+<img src="https://tryhackme-badges.s3.amazonaws.com/0xSAZZAD.png" alt="TryHackMe"> 
 
-[![Sazzad's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xSAZZAD)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/0xSAZZAD.png" alt="TryHackMe"> <img src="http://www.hackthebox.eu/badge/image/312195" alt="Hack The Box">
 
 
 #### PGP
@@ -160,7 +158,7 @@ H3EB+YI6CsBdLeBIlhyYkb2X0y2yLkYjnl5M5LEt05SkJZEgefPgKbE0XpvLqoHy
 
 ```
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=0xSAZZAD&theme=catppuccin-mocha)](https://git.io/streak-stats) ![Sazzad's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xSAZZAD&rank_icon=github)
 
 
 
