@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br>
 
 <h5 align="center">About Me</h5>
-<h6 align="center">Cybersecurity Specialist with over 2 years of paid experience and hands-on expertise in Vulnerability Assessments, Penetration Testing, and Security Operations. I hold certifications including OSCP, OSCP+, C|EH, CC, CNSS, and C)VA, which have built a strong foundation across multiple cybersecurity domains. Additionally, I’m also experienced in conducting SWIFT CSP assessments, PCI-DSS compliance, and implementing a wide range of security solutions. Passionate about continuous learning, I actively pursue certifications and engage in security research during my spare time to stay informed and up-to-date.</h6>
+<h6 align="center">Cybersecurity Specialist with over 4 years of paid experience and hands-on expertise in Vulnerability Assessments, Penetration Testing, and Security Operations. I hold certifications including OSCP, OSCP+, LPT, CPENT, C|EH, CC, CNSS, and C)VA, which have built a strong foundation across multiple cybersecurity domains. Additionally, I’m also experienced in conducting SWIFT CSP assessments, PCI-DSS compliance, and implementing a wide range of security solutions. Passionate about continuous learning, I actively pursue certifications and engage in security research during my spare time to stay informed and up-to-date.</h6>
 
 <br>
 
